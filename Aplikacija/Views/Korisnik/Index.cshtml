@@ -1,0 +1,79 @@
+﻿@model System.Data.DataTable
+
+@{
+    ViewData["Title"] = "Korisnici";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Dodaj">Dodaj novog korisnika</a>
+</p>
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                Ime
+            </th>
+            <th>
+                Prezime
+            </th>
+            <th>
+                Telefonski broj
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Datum kreiranja
+            </th>
+            <th>
+                Vrijeme kreiranja
+            </th>
+            <th>
+                Datum promjene
+            </th>
+            
+            <th>
+                Ažuriraj
+            </th>
+            <th>
+                Briši
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@for (int i = 0; i < Model.Rows.Count; i++) 
+{
+        <tr>
+            <td>
+                @Model.Rows[i]["ime"]
+            </td>
+            <td>
+                @Model.Rows[i]["prezime"]
+            </td>
+            <td>
+                @Model.Rows[i]["tel_broj"]
+            </td>
+            <td>
+                @Model.Rows[i]["email"]
+            </td>
+            <td>
+                @Model.Rows[i]["datum_kre"]
+            </td>
+            <td>
+                @Model.Rows[i]["vrijeme_kre"]
+            </td>
+            <td>
+                @Model.Rows[i]["datum_pro"]
+            </td>
+            <td>
+               <a asp-action="Ažuriraj" asp-route-id="@Model.Rows[i]["id"]">Ažuriraj</a>
+            </td>  
+            <td>
+               <a asp-action="Briši" asp-route-id="@Model.Rows[i]["id"]">Briši</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

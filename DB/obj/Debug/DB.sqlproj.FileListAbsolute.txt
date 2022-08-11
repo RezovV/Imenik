@@ -1,0 +1,6 @@
+C:\Users\Rezov\source\repos\Imenik\DB\bin\Debug\DB.dacpac
+C:\Users\Rezov\source\repos\Imenik\DB\bin\Debug\DB.dll
+C:\Users\Rezov\source\repos\Imenik\DB\bin\Debug\DB.pdb
+C:\Users\Rezov\source\repos\Imenik\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\Rezov\source\repos\Imenik\DB\obj\Debug\DB.dll
+C:\Users\Rezov\source\repos\Imenik\DB\obj\Debug\DB.pdb
