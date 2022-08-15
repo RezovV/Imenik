@@ -1,0 +1,87 @@
+11.8.2022. 22:06:26	This log contains information about the import schema operation into project 'DB' on computer 'DESKTOP-9MT1IA3' by user 'Rezov'.
+11.8.2022. 22:06:26	Import of database schema has started.
+11.8.2022. 22:06:31	Gathering database credentials
+11.8.2022. 22:06:31	Gathering database options
+11.8.2022. 22:06:31	Gathering generic database scoped configuration option
+11.8.2022. 22:06:31	Gathering users
+11.8.2022. 22:06:31	Gathering roles
+11.8.2022. 22:06:31	Gathering application roles
+11.8.2022. 22:06:31	Gathering role memberships
+11.8.2022. 22:06:31	Gathering filegroups
+11.8.2022. 22:06:31	Gathering full-text catalogs
+11.8.2022. 22:06:31	Gathering assemblies
+11.8.2022. 22:06:31	Gathering certificates
+11.8.2022. 22:06:31	Gathering asymmetric keys
+11.8.2022. 22:06:31	Gathering symmetric keys
+11.8.2022. 22:06:31	Gathering encrypted symmetric keys
+11.8.2022. 22:06:31	Gathering schemas
+11.8.2022. 22:06:31	Gathering XML schema collections
+11.8.2022. 22:06:31	Gathering user-defined data types
+11.8.2022. 22:06:31	Gathering user-defined types
+11.8.2022. 22:06:31	Gathering table types
+11.8.2022. 22:06:31	Gathering unique keys for table types
+11.8.2022. 22:06:31	Gathering primary keys for table types
+11.8.2022. 22:06:31	Gathering indexes for table types
+11.8.2022. 22:06:31	Gathering check constraints for table types
+11.8.2022. 22:06:31	Gathering default constraints for table types
+11.8.2022. 22:06:31	Gathering partition functions
+11.8.2022. 22:06:31	Gathering partition schemes
+11.8.2022. 22:06:31	Gathering functions
+11.8.2022. 22:06:31	Gathering encrypted functions
+11.8.2022. 22:06:31	Gathering aggregates
+11.8.2022. 22:06:31	Gathering procedures
+11.8.2022. 22:06:31	Gathering encrypted procedures
+11.8.2022. 22:06:31	Gathering tables
+11.8.2022. 22:06:31	Gathering primary keys
+11.8.2022. 22:06:31	Gathering unique constraints
+11.8.2022. 22:06:31	Gathering foreign keys
+11.8.2022. 22:06:31	Gathering default constraints
+11.8.2022. 22:06:31	Gathering check constraints
+11.8.2022. 22:06:31	Gathering views
+11.8.2022. 22:06:31	Gathering encrypted views
+11.8.2022. 22:06:31	Gathering indexes
+11.8.2022. 22:06:31	Gathering statistics
+11.8.2022. 22:06:31	Gathering full-text index stoplists
+11.8.2022. 22:06:31	Gathering search property lists
+11.8.2022. 22:06:31	Gathering search properties
+11.8.2022. 22:06:31	Gathering full-text indexes
+11.8.2022. 22:06:31	Gathering column store indexes
+11.8.2022. 22:06:31	Gathering spatial indexes
+11.8.2022. 22:06:31	Gathering XML indexes
+11.8.2022. 22:06:31	Gathering Selective XML indexes
+11.8.2022. 22:06:31	Gathering encrypted triggers
+11.8.2022. 22:06:31	Gathering triggers
+11.8.2022. 22:06:31	Gathering encrypted and clr ddl triggers
+11.8.2022. 22:06:31	Gathering ddl triggers
+11.8.2022. 22:06:31	Creating edge constraints
+11.8.2022. 22:06:31	Gathering synonyms
+11.8.2022. 22:06:31	Gathering defaults
+11.8.2022. 22:06:31	Gathering data constraint uddt bindings
+11.8.2022. 22:06:31	Gathering rules
+11.8.2022. 22:06:31	Gathering data constraint uddt bindings
+11.8.2022. 22:06:31	Gathering message types
+11.8.2022. 22:06:31	Gathering queues
+11.8.2022. 22:06:31	Gathering contracts
+11.8.2022. 22:06:31	Gathering services
+11.8.2022. 22:06:31	Gathering event notifications
+11.8.2022. 22:06:31	Gathering remote service bindings
+11.8.2022. 22:06:31	Gathering broker priorities
+11.8.2022. 22:06:31	Gathering signatures
+11.8.2022. 22:06:31	Gathering data compression options
+11.8.2022. 22:06:31	Gathering sequence types
+11.8.2022. 22:06:31	Gathering security policies
+11.8.2022. 22:06:31	Gather column encryption keys
+11.8.2022. 22:06:31	Gathering column master keys
+11.8.2022. 22:06:31	Gathering external data sources
+11.8.2022. 22:06:31	Gathering external file formats
+11.8.2022. 22:06:31	Gathering external tables
+11.8.2022. 22:06:31	Gathering extended properties
+11.8.2022. 22:06:31	Gathering assemblies
+11.8.2022. 22:06:31	Gathering credentials
+11.8.2022. 22:06:31	Gathering logins
+11.8.2022. 22:06:31	Gathering server audits
+11.8.2022. 22:06:32	Scanning project for duplicate elements
+11.8.2022. 22:06:32	Finished duplicate element processing
+11.8.2022. 22:06:32	Finished importing database.
+11.8.2022. 22:06:32	A summary of the import was saved to the following location: C:\Users\Rezov\source\repos\Imenik\DB\Import Schema Logs\DB_20220811080626.log
+11.8.2022. 22:06:32	Click Finish to continue...
