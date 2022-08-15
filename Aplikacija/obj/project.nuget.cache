@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xnyN3X06zkMHYUC6w+hMcmnvXXfhnRk0qfpymviRv8XOfvkexglF1jzDNtPScwYqu9xIyh2RHOoSwyfM8cRzEg==",
+  "dgSpecHash": "GGvUOAFe8IPpDhRqMWGhC4R7aJHdEbdpuClQQyz0uf6ePnFXBI3ndrdf+MaQJ3v64hbVxR8rs3Dl/7TfKjUQdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Aplikacija.csproj",
+  "projectFilePath": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Contacts.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rezov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rezov\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

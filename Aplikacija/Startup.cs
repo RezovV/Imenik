@@ -51,7 +51,7 @@ namespace Aplikacija
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Korisnik}/{action=Index}/{id?}");
+                    pattern: "{controller=Contact}/{action=Index}/{id?}");
             });
         }
     }

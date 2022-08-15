@@ -7463,9 +7463,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Aplikacija.csproj",
-      "projectName": "Aplikacija",
-      "projectPath": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Aplikacija.csproj",
+      "projectUniqueName": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Contacts.Web.csproj",
+      "projectName": "Contacts.Web",
+      "projectPath": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\Contacts.Web.csproj",
       "packagesPath": "C:\\Users\\Rezov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Rezov\\source\\repos\\Imenik\\Aplikacija\\obj\\",
       "projectStyle": "PackageReference",
