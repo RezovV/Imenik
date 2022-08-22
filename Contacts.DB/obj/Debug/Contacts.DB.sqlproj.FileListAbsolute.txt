@@ -6,3 +6,5 @@ C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\postdeploy.sql
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\predeploy.sql
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\DB.dll
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\DB.pdb
+C:\Users\Rezov\source\repos\Imenik\Contacts.DB\bin\Debug\DB.dll
+C:\Users\Rezov\source\repos\Imenik\Contacts.DB\bin\Debug\DB.pdb

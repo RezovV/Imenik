@@ -9,8 +9,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Services;
 
-namespace Aplikacija
+namespace Contact
 {
     public class Startup
     {

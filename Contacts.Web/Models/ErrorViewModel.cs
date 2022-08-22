@@ -1,6 +1,6 @@
 using System;
 
-namespace Aplikacija.Models
+namespace Contact.Models
 {
     public class ErrorViewModel
     {
