@@ -28,7 +28,7 @@ namespace Contact.Controllers
         public IActionResult Index()
         {
             var contacts = _contactService.GetList();
-             return View(contacts);
+            return View(contacts);
         }
     }
 }

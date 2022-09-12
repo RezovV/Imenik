@@ -1,9 +1,5 @@
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\bin\Debug\Contacts.DB.dacpac
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\Contacts.DB.sqlproj.AssemblyReference.cache
-C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\Model.xml
-C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\refactor.xml
-C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\postdeploy.sql
-C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\predeploy.sql
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\DB.dll
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\obj\Debug\DB.pdb
 C:\Users\Rezov\source\repos\Imenik\Contacts.DB\bin\Debug\DB.dll

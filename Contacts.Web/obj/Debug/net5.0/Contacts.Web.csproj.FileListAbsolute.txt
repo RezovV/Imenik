@@ -286,3 +286,5 @@ C:\Users\Rezov\source\repos\Imenik\Contacts.Web\obj\Debug\net5.0\refint\Contacts
 C:\Users\Rezov\source\repos\Imenik\Contacts.Web\obj\Debug\net5.0\Contacts.Web.pdb
 C:\Users\Rezov\source\repos\Imenik\Contacts.Web\obj\Debug\net5.0\Contacts.Web.genruntimeconfig.cache
 C:\Users\Rezov\source\repos\Imenik\Contacts.Web\obj\Debug\net5.0\ref\Contacts.Web.dll
+C:\Users\Rezov\source\repos\Imenik\Contacts.Web\bin\Debug\net5.0\Services.dll
+C:\Users\Rezov\source\repos\Imenik\Contacts.Web\bin\Debug\net5.0\Services.pdb
